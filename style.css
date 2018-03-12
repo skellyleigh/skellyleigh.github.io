@@ -1,6 +1,18 @@
 body {
-    background-color: powderblue;
+    background-color: royalblue;
 }
 h1 {
-    color: blue;
+    color: white;
+}
+
+h4 {
+    color: skyblue;
+}
+h1 {
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+h4 {
+    color: skyblue;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
