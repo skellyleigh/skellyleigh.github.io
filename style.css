@@ -16,3 +16,6 @@ h4 {
     color: skyblue;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
+h1 {
+  text-align: center;
+}
